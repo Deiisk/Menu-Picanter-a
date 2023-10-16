@@ -1,2 +1,2 @@
 # Menu-Picanteria
-This is a remix for the FreeCodeCamp Menu practice.
+This is a remix for the FreeCodeCamp Cafe Menu practice.
